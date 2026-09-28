@@ -1,3 +1,3 @@
 [## Hi there 👋
 
-(https://badges.pufler.dev/created/{username}/{repo}
+https://badges.pufler.dev/created/apocordi/apocordi
