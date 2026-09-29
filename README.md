@@ -1,9 +1,9 @@
 ## 🛸 Capo Dior
 
-🛠ㅤHardware Projects
-💾ㅤSoftware Projects
-🎯ㅤI want to simplify being an inventor.
-🎉ㅤFun-Fact: I like Plants 🪴 and Technology 🚀, but I like them better together.
+<a>🛠ㅤHardware Projects</a><br>
+<a>💾ㅤSoftware Projects</a><br>
+<a>🎯ㅤI want to simplify being an inventor.</a><br>
+<a>🎉ㅤFun-Fact: I like Plants 🪴 and Technology 🚀, but I like them better together.</a>
 
 ## 🌐 Sites
 
