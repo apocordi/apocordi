@@ -9,5 +9,5 @@
 
 <a>🔌ㅤ</a><a href="stoned.engineer">**Stoned Engineer**</a><br>
 
-<a href="LINK1">**PywindUI**</a><a>ㅤ🔗ㅤpywindui.devs.surf</a><br>
-<a href="LINK2">**Growchi**</a><a>ㅤ🔗ㅤgrowchi.devs.surf</a>
+<a href="LINK1">**PywindUI**</a><a>ㅤ(pywindui.devs.surf)</a><br>
+<a href="LINK2">**Growchi**</a><a>ㅤ(growchi.devs.surf)</a>
