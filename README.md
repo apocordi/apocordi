@@ -7,4 +7,4 @@
 
 ## 🌐 Sites
 
-PywindUI 🔗 [PywinndUI.devs.surf]([(https://devs.surf/tutorial)])
+PywindUI 🔗 ["**extended sharing area**"](https://devs.surf/tutorial)
