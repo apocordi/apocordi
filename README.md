@@ -7,4 +7,4 @@
 
 ## 🌐 Sites
 
-PywindUI 🔗 :  [**pywindui.devs.surf**](https://devs.surf/tutorial)
+[**PywindUI 🔗**](https://devs.surf/tutorial)
