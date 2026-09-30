@@ -1,7 +1,7 @@
 ## 🛸 Capo Dior
 
 <a>🛠ㅤ  Hardware Projects</a><br>
-<a>💾  ㅤSoftware Projects</a><br>
+<a>📀  ㅤSoftware Projects</a><br>
 <a>🎯  ㅤI want to simplify being an so called engineer. EVERYONE SHOULD MAKE THEIR OWN SHIT</a><br>
 <a>🎉  ㅤFun-Fact: I like Plants 🪴 and Technology 🚀, but I like them better together.</a>
 
